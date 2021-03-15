@@ -98,4 +98,4 @@ combine_tessdata -c ./tesstrain/data/${LANG_NAME}_seeneva.traineddata
 
 Copyright © 2021 Sergei Solodovnikov under the [Apache License 2.0](LICENSE).
 
-**Note** that dependencies may have different license. See [LICENSE-3RD-PARTY](docs/3RD-PARTY-LICENSES.md) for more information.
+**Note** that dependencies may have different license. See [3RD-PARTY-LICENSES](docs/3RD-PARTY-LICENSES.md) for more information.
